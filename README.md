@@ -1,2 +1,3 @@
 # ESPL-Extended-System-Programming-Laboratory
-Ripository for ESPL course labs and assignements
+Repository for ESPL course labs and assignments.
+Low-level programming, focusing on C and Assembly.
